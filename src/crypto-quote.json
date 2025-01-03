@@ -1,0 +1,15 @@
+{
+  "author": "yidazh",
+  "createdAt": "2024-01-03",
+  "homepage": "https://github.com/yidazh/crypto-quote-plugin-demo",
+  "identifier": "crypto-quote",
+  "manifest": "https://crypto-quote-plugin-demo.vercel.app/manifest.json",
+  "meta": {
+    "avatar": "https://openai-collections.chat-plugin.lobehub.com/weather-gpt/logo.webp",
+    "description": "query the quote price of crypto currency",
+    "tags": ["crypto"],
+    "title": "Crypto Quote",
+    "category": "tools"
+  },
+  "schemaVersion": 1
+}
